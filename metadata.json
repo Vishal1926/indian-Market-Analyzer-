@@ -1,0 +1,6 @@
+{
+  "name": "DalalStreet Quant — NSE & BSE Equity Research Database",
+  "description": "Indian stock market (NSE & BSE) equity research terminal and database fetching live market prices, upside/downside trend scenarios, top 5 price-moving news catalysts, multi-factor risk profiles, and a step-by-step API integration blueprint.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
